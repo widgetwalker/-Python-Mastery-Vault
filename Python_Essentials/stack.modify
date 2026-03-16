@@ -1,0 +1,23 @@
+# Initialize an array
+arr = [1, 2, 3, 4, 5]
+
+# Stack operations
+stack = []
+
+# Push elements to the stack
+for item in arr:
+    stack.append(item)
+
+print("Original array:", arr)
+print("Stack after pushing elements:", stack)
+
+# Modify the top element of the stack
+stack[-1] = 10
+
+# Pop elements from the stack
+while stack:
+    popped_element = stack.pop()
+    print("Popped element:", popped_element)
+
+# Access elements in the stack
+print("Elements in the stack:", stack)

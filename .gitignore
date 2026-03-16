@@ -1,0 +1,36 @@
+# Excluded folders from the Python Mastery Vault
+C/
+cn/
+distributed_systems/
+files/
+flutter/
+goGreen/
+ML_airpoll/
+mobile-ai/
+portfolio-main/
+project_archivist/
+seraphplay/
+vs/
+.gradle/
+
+# Logs and system files
+*.log
+.DS_Store
+Thumbs.db
+github-recovery-codes.txt
+
+# Large data files
+*.csv
+*.pkl
+*.h5
+*.ipynb_checkpoints/
+
+# Archives and large media
+*.zip
+*.7z
+*.rar
+*.stl
+*.pdf
+*.docx
+*.mp4
+*.mov
