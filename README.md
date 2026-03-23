@@ -1,8 +1,6 @@
 # 🐍 Python Mastery Vault
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F7D716&center=true&vCenter=true&width=600&lines=Welcome+to+the+Python+Mastery+Vault!;Explore+%F0%9F%8E%A8+Art+%7C+%F0%9F%8E%AE+Games+%7C+%F0%9F%A4%96+AI;Code+crafted+with+%E2%9D%A4%EF%B8%8F+by+WidgetWalker" alt="Typing SVG" />
-</div>
+
 
 <div align="center">
   <img src="banner.png" alt="Python Mastery Vault Banner" width="820" />
