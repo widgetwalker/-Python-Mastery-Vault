@@ -1,11 +1,5 @@
 # 🐍 Python Mastery Vault
 
-
-
-<div align="center">
-  <img src="banner.png" alt="Python Mastery Vault Banner" width="820" />
-</div>
-
 <div align="center">
   <img src="https://img.shields.io/badge/Python-3.x-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge" />
