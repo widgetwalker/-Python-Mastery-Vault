@@ -33,7 +33,7 @@ git clone https://github.com/widgetwalker/-Python-Mastery-Vault.git
 cd Python-Master-Vault/Turtle_Masterpieces
 
 # 3. Run any script
-python "cute spidey.py"
+python "spiderman_turtle_sketch.py"
 ```
 
 ---
