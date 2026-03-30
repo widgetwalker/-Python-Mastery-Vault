@@ -1,11 +1,6 @@
 # 🐍 Python Mastery Vault
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Python-3.x-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Projects-50%2B-F7D716?style=for-the-badge" />
-  <img src="https://img.shields.io/github/license/widgetwalker/-Python-Mastery-Vault?style=for-the-badge" />
-</div>
+
 
 ---
 
